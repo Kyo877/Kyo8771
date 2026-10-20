@@ -1,15 +1,22 @@
 # Hi there, I'm Wong Yan Kang! 👋
 
-> *"Small steps today, big dreams tomorrow."* 🌱 | *"Better Version of Myself"* ✨
-
-I'm an enthusiastic **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)** 🎓, hailing from Kota Tinggi, Johor. As an **ENFP (The Campaigner)**, I am curious, creative, and always eager to explore new ideas, build meaningful connections, and solve real-world problems.
-
-### 👨‍💻 About Me
-
-- 🔭 Currently pursuing my Bachelor's Degree in **Data Engineering** at UTM.
-- 🥋 **Fun Fact:** I'm a **3rd Dan Black Belt** in Taekwondo! Discipline and continuous improvement are my core values.
-- 💡 **Interests:** Technology & Programming 💻, Sports & Fitness 🏋️, Photography 📸, Gaming 🎮, and Music & Movies 🎬.
-- 🎯 **Future Goals:** To gain solid industry experience in data engineering and eventually start my own company. *"From Learning to Leading."*
+<!-- 大头照与自我介绍并排 -->
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>I'm an enthusiastic <b>Data Engineering</b> student at <b>Universiti Teknologi Malaysia (UTM)</b> 🎓, hailing from Kota Tinggi, Johor.</p>
+      <p>As an <b>ENFP (The Campaigner)</b>, I am curious, creative, and always eager to explore new ideas, build meaningful connections, and solve real-world problems. 💡</p>
+      <p>🥋 <b>Fun Fact:</b> I'm a <b>3rd Dan Black Belt</b> in Taekwondo! Discipline and continuous improvement are my core values.</p>
+      <p>🎯 <b>Future Goals:</b> To gain solid industry experience in data engineering and eventually start my own company. <i>"From Learning to Leading."</i></p>
+      <p>🌱 <i>"Small steps today, big dreams tomorrow."</i> | <i>"Better Version of Myself"</i> ✨</p>
+    </td>
+    <td width="30%" align="center" valign="top">
+      <!-- 只要你上传了名为 avatar.png 的照片，这一行就会自动读取 -->
+      <img src="avatar.png" width="180px" style="border-radius: 50%;" alt="Wong Yan Kang" />
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tech Stack & Skills
 
@@ -24,14 +31,14 @@ I'm an enthusiastic **Data Engineering** student at **Universiti Teknologi Malay
 
 ### 📊 GitHub Stats
 
-<!-- 已经更换为更稳定、不会裂图的 GitHub 连续打卡统计服务 -->
-![Yan Kang's GitHub stats](https://streak-stats.demolab.com/?user=Kyo877&theme=radium)
+![Yan Kang's GitHub stats](https://streak-stats.demolab.com/?user=Kyo8771&theme=radium)
 
 ### ⚡ Connect with me
 
-<!-- 按钮已经修好。如果有真实的 LinkedIn，请把最后的链接换掉 -->
+You can reach me directly at: **`ykwong077@gmail.com`** 📧
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-green?style=for-the-badge&logo=gmail)](mailto:ykwong077@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-green?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=ykwong077@gmail.com)
 
 ---
 *The future is built by those who keep learning.* 🚀
