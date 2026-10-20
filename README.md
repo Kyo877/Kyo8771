@@ -7,7 +7,7 @@ I'm an enthusiastic **Data Engineering** student at **Universiti Teknologi Malay
 ### 👨‍💻 About Me
 
 - 🔭 Currently pursuing my Bachelor's Degree in **Data Engineering** at UTM.
-- 🥋 **Fun Fact:** I'm a **3rd Dan Black Belt** in Taekwondo! Discipline and continuous improvement are my core values.
+- 🥋 **Fun Fact:** I'm a **Black Belt** in Taekwondo! Discipline and continuous improvement are my core values.
 - 💡 **Interests:** Technology & Programming 💻, Sports & Fitness 🏋️, Photography 📸, Gaming 🎮, and Music & Movies 🎬.
 - 🎯 **Future Goals:** To gain solid industry experience in data engineering and eventually start my own company. *"From Learning to Leading."*
 
