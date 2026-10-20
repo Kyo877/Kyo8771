@@ -7,7 +7,7 @@ I'm an enthusiastic **Data Engineering** student at **Universiti Teknologi Malay
 ### 👨‍💻 About Me
 
 - 🔭 Currently pursuing my Bachelor's Degree in **Data Engineering** at UTM.
-- 🥋 **Fun Fact:** I'm a **Black Belt** in Taekwondo! Discipline and continuous improvement are my core values.
+- 🥋 **Fun Fact:** I'm a **3rd Dan Black Belt** in Taekwondo! Discipline and continuous improvement are my core values.
 - 💡 **Interests:** Technology & Programming 💻, Sports & Fitness 🏋️, Photography 📸, Gaming 🎮, and Music & Movies 🎬.
 - 🎯 **Future Goals:** To gain solid industry experience in data engineering and eventually start my own company. *"From Learning to Leading."*
 
@@ -24,14 +24,14 @@ I'm an enthusiastic **Data Engineering** student at **Universiti Teknologi Malay
 
 ### 📊 GitHub Stats
 
-<!-- GitHub 动态统计卡片 (自动生成你的 GitHub 数据) -->
-![Yan Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyo877&show_icons=true&theme=radium)
+<!-- 已经更换为更稳定、不会裂图的 GitHub 连续打卡统计服务 -->
+![Yan Kang's GitHub stats](https://streak-stats.demolab.com/?user=Kyo8771&theme=radium)
 
 ### ⚡ Connect with me
 
-<!-- 请把下面链接中的 "#" 替换成你真实的链接 -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](#)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-green?style=for-the-badge&logo=gmail)](mailto:你的邮箱@example.com)
+<!-- 按钮已经修好。如果有真实的 LinkedIn，请把最后的链接换掉 -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-green?style=for-the-badge&logo=gmail)](mailto:wongyankang@gmail.com)
 
 ---
 *The future is built by those who keep learning.* 🚀
