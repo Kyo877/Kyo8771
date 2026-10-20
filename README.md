@@ -31,7 +31,7 @@ I'm an enthusiastic **Data Engineering** student at **Universiti Teknologi Malay
 
 <!-- 按钮已经修好。如果有真实的 LinkedIn，请把最后的链接换掉 -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-green?style=for-the-badge&logo=gmail)](mailto:wongyankang@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-green?style=for-the-badge&logo=gmail)](mailto:ykwong077@gmail.com)
 
 ---
 *The future is built by those who keep learning.* 🚀
