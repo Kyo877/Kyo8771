@@ -25,7 +25,7 @@ I'm an enthusiastic **Data Engineering** student at **Universiti Teknologi Malay
 ### 📊 GitHub Stats
 
 <!-- 已经更换为更稳定、不会裂图的 GitHub 连续打卡统计服务 -->
-![Yan Kang's GitHub stats](https://streak-stats.demolab.com/?user=Kyo8771&theme=radium)
+![Yan Kang's GitHub stats](https://streak-stats.demolab.com/?user=Kyo877&theme=radium)
 
 ### ⚡ Connect with me
 
