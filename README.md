@@ -25,7 +25,7 @@ I'm an enthusiastic **Data Engineering** student at **Universiti Teknologi Malay
 ### 📊 GitHub Stats
 
 <!-- GitHub 动态统计卡片 (自动生成你的 GitHub 数据) -->
-![Yan Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyo8771&show_icons=true&theme=radium)
+![Yan Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyo877&show_icons=true&theme=radium)
 
 ### ⚡ Connect with me
 
