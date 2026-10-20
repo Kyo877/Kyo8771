@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills （NOW LEARNING)
 
 - **Programming & Languages:** Python, SQL, C++, JavaScript
 - **Core Competencies:** Data Analysis, Problem Solving, System Design, Data Engineering Tools & Systems
