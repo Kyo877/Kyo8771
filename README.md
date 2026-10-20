@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Stats
 
-![Yan Kang's GitHub stats](https://streak-stats.demolab.com/?user=Kyo8771&theme=radium)
+![Yan Kang's GitHub stats](https://streak-stats.demolab.com/?user=Kyo877&theme=radium)
 
 ### ⚡ Connect with me
 
